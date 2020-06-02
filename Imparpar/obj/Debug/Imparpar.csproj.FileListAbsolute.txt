@@ -1,0 +1,6 @@
+C:\Users\vinicius.fernandes\Desktop\CSharp\Imparpar\Imparpar\obj\Debug\Imparpar.csprojAssemblyReference.cache
+C:\Users\vinicius.fernandes\Desktop\CSharp\Imparpar\Imparpar\bin\Debug\Imparpar.exe.config
+C:\Users\vinicius.fernandes\Desktop\CSharp\Imparpar\Imparpar\bin\Debug\Imparpar.exe
+C:\Users\vinicius.fernandes\Desktop\CSharp\Imparpar\Imparpar\bin\Debug\Imparpar.pdb
+C:\Users\vinicius.fernandes\Desktop\CSharp\Imparpar\Imparpar\obj\Debug\Imparpar.exe
+C:\Users\vinicius.fernandes\Desktop\CSharp\Imparpar\Imparpar\obj\Debug\Imparpar.pdb
